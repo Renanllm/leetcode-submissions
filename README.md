@@ -14,6 +14,7 @@ The goal of this repository is to share my solutions to LeetCode challenges, hel
 - Inside each folder, you will find:
   - `README.md`: Containing the problem description and the link to the LeetCode problem.
   - `solution.go`: My solution to the challenge in Golang.
+  - `solution_test.go`: My test cases for validating the solutions.
 
 ## 🚀 Getting Started
 
